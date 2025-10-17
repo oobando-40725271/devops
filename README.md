@@ -27,4 +27,4 @@ test 3
 [![Releases](https://img.shields.io/github/release/oobando-40725271/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/devops/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/oobando-40725271/devops/push/develop?style=flat-square) 
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Tarzo-Vain/SET09803-Scrum-Team-11/main.yml)
