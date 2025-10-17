@@ -27,4 +27,4 @@ test 3
 [![Releases](https://img.shields.io/github/release/oobando-40725271/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/devops/releases)
 
 # DevOps
-![GitHub Workflow Status(branch)](https://img.shields.io/github/workflow/status/oobando-40725271/devops/main.yml>/<branch>?style=flat-square) 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/oobando-40725271/devops/push/<branch>?style=flat-square) 
