@@ -24,5 +24,4 @@ test 3
 
 [![LICENSE](https://img.shields.io/github/license/oobando-40725271/devops.svg?style=flat-square)](https://github.com/oobando-40725271/devops/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/oobando-40725271/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/devops/releases)
-Release [![Releases](https://img.shields.io/github/release/Tarzo-Vain/SET09803-Scrum-Team-11/all.svg?style=flat-square)](https://github.com/Tarzo-Vain/SET09803-Scrum-Team-11/releases
+Release [![Releases](https://img.shields.io/github/release/oobando-40725271/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/devops/releases
